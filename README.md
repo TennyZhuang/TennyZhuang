@@ -1,6 +1,6 @@
 Hi, I'm Tianyi Zhuang, an open source lover.
 
-My current main interest is in databases and streaming systems. I'm involved in the [TiKV community][tikv], and they promoted me as a committer. Besides that, I have been involved in many other projects such as [RisingWave][risingwave] [TiDB][tidb], [DataBend][databend], [RisingLight][risinglight].
+My current main interest is in databases and streaming systems. I'm involved in the [TiKV community][tikv], and they promoted me as a committer. Besides that, I have been involved in many other projects such as [RisingWave][risingwave], [TiDB][tidb], [DataBend][databend] and [RisingLight][risinglight].
 
 I'm also a big fan of [Rust language][rust language] and try to involve the Rust community.
 
