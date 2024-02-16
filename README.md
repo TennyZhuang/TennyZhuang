@@ -17,6 +17,8 @@ You can find me at:
 - [GitHub](https://github.com/TennyZhuang)
 - [Twitter](https://twitter.com/zty0826)
 - [Email](zty0826@gmail.com)
+- [Blog](https://blog.cocl2.com/)
+- [Blog (Chinese)](https://blog.zhuangty.com/)
 
 [tikv]: https://github.com/tikv/tikv
 [tidb]: https://github.com/pingcap/tidb
