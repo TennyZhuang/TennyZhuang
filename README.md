@@ -26,6 +26,6 @@ You can find me at:
 [risingwavelabs]: https://github.com/risingwavelabs
 [databend]: https://github.com/datafuselabs/databend
 [risinglight]: https://github.com/risinglightdb/risinglight
-[polardb-x]: https://github.com/ApsaraDB/galaxysql
+[polardb-x]: https://github.com/polardb/polardbx-sql
 [megvii]: https://en.megvii.com
 [rust language]: https://www.rust-lang.org
