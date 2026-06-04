@@ -8,8 +8,6 @@ Currently I am working on the streaming compute engine of [RisingWave][risingwav
 
 I used to worked in the PolarDB-X team at Alibaba and am responsible for developing transaction-related features. After I left Alibaba, PolarDB-X was [open-sourced][polardb-x].
 
-Before Alibaba, I was an AI-infra SWE at [Megvii Inc][megvii]. I designed and implemented the Overlay OSS, which supports the entire data storage, cleaning, and training process in Megvii Research.
-
 I graduated from Tsinghua University with a Bachelor's degree in Software Engineering. In my final year, I participated in the [CCPC](https://ccpc.io) and won a gold medal at the regional level.
 
 You can find me at:
